@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vishesh-gupta-931252201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishesh-gupta-931252201" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishesh13byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishesh13byte" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vishesh13byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="vishesh13byte" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishuu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vishesh13byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishesh13byte" height="30" width="40" /></a>
 </p>
