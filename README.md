@@ -38,6 +38,15 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh13byte&theme=tokyonight" alt="vishesh13byte"  />
 </p>
 
+<br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/varendra007/count.svg" />
+</p>
+
+<br>
+
 <img src="https://imgur.com/rilHVxA.png"/>
 
 
